@@ -1,2 +1,3 @@
 This is my Second document file
 It was a good class
+This merge wasnt supposed to happen here
