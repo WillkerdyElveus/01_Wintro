@@ -1,5 +1,6 @@
 This is my Second document file
 It was a good class
-This merge wasnt supposed to happen here
+This merge wasn't supposed to happen here
 This is where I merge it now
 I fixed the merge now 
+what happened 
